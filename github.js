@@ -4,7 +4,7 @@ class GitHub {
         this.client_secret = '41e3e1bb0ea1769735618ae8e513777e49d3e336';
         this.repos_count = 5;
         this.repos_sort = 'created: asc';
-        this.user = 'ju-voro';
+        this.user = 'ALEKSIVA';
     }
 
     //get a user info
